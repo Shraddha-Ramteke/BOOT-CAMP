@@ -1,3 +1,3 @@
 # 1st file 
 
-GIT And Github
+GIT And Github.
