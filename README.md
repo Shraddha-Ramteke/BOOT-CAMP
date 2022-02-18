@@ -26,13 +26,15 @@ free and open source version control system .
 7. undoing in git
 8. forking in git
 
-# Work flow                   # Local git                          
+# Work flow                                           
 * write code                          
-*     |                                    
-* commit changes                       
-*     |                                    
-* make a pull request                  
+* commit changes                                                      
+* make a pull request
+# Local git 
+* write code 
+* store changes
+* commit changes
+* push changes
+* make a pull request
 
-
-
-## Done with File 1                                              
+##       Done with File 1
