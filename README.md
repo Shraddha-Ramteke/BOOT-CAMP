@@ -17,24 +17,22 @@ free and open source version control system .
 7. Github
 
 # git command 
-clone 
-add
-commit
-push 
-pull
-branching and merging 
-undoing in git
-forking in git
+1. clone 
+2. add
+3. commit
+4. push 
+5. pull
+6. branching and merging 
+7. undoing in git
+8. forking in git
 
-# Work flow                           Local git 
-write code                           write code 
-     |                                    |
-commit changes                       store changes
-     |                                    | git add
-make a pull request                  commit changes
-                                          | git commit
-                                     push changes  
-                                          | git push 
-                                     make a pull request
+# Work flow                   # Local git                          
+* write code                          
+*     |                                    
+* commit changes                       
+*     |                                    
+* make a pull request                  
+
+
 
 ## Done with File 1                                              
